@@ -1,1 +1,1 @@
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="1bab63de-762d-458d-8757-be487dd62fe2" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+![microsoft-certified-azure-ai-fundamentals](https://user-images.githubusercontent.com/68453992/187008025-3251702e-a12a-4501-a0fe-3cb0e947aed3.png)
