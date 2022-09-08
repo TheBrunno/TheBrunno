@@ -4,9 +4,11 @@
 <h1>Bruno's area 😎</h1>
 <h3 align="center">Cursando Desenvolvimento de Sistemas 👨🏻‍💻</h3>
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/68453992/188026575-5355b6a6-b698-48cb-8f4a-ad9ac1432101.png">
-  <img src="https://user-images.githubusercontent.com/68453992/188026577-3a394110-32b1-489a-bc01-bdfb10269c14.png">
+
+  <img src="https://user-images.githubusercontent.com/68453992/189243233-a2671dde-d790-43d2-8b13-2b27ea113038.png" width="17%">
+  <img src="https://user-images.githubusercontent.com/68453992/189243256-9497af98-192b-4331-a14e-ccdb9fee2eb5.png" width="17%">
 </p>
+
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheBrunno&show_icons=true&theme=dracula&hide_border=true">
