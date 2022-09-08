@@ -53,3 +53,12 @@
   <h3>Visitantes 👌:</h3> 
   <img src="https://profile-counter.glitch.me/TheBrunno/count.svg">
 </p>
+<p>
+  E-mail: 
+  <a href="mailto:brunosilvadeoliveira.10@gmail.com" target="_blank">brunosilvadeoliveira.10@gmail.com</a>
+</p>
+<p>
+  Instagram: 
+  <a href="https://www.instagram.com/brunoo.zip/" target="_blank">@brunoo.zip</a>
+</p>
+
