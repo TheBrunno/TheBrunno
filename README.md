@@ -1,15 +1,14 @@
-<img align="right" src="https://user-images.githubusercontent.com/68453992/188028950-b830f9d0-dae1-4a8e-aa5e-8b79c6d3bece.gif" width="35%">
-
+<img align="right" src="https://user-images.githubusercontent.com/68453992/191634727-90a06b4a-7502-4b8e-bb25-d3d12fb2847f.gif" width="25%">
 
 <h1>Bruno's area 😎</h1>
 <h3 align="center">Cursando Desenvolvimento de Sistemas 👨🏻‍💻</h3>
 <p align="center">
-
   <img src="https://user-images.githubusercontent.com/68453992/189243233-a2671dde-d790-43d2-8b13-2b27ea113038.png" width="180px">
   <img src="https://user-images.githubusercontent.com/68453992/189243256-9497af98-192b-4331-a14e-ccdb9fee2eb5.png" width="180px">
 </p>
 
 <hr>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheBrunno&show_icons=true&theme=dracula&hide_border=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrunno&langs_count=10&layout=compact&theme=dracula&custom_title=Linguagens&hide_border=true">
