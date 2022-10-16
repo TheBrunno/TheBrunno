@@ -62,4 +62,7 @@
   Instagram: 
   <a href="https://www.instagram.com/brunoo.zip/" target="_blank">@brunoo.zip</a>
 </p>
-
+<p>
+  Discord:
+  <a href="https://discord.com/users/507003899945811969" targe="_blank">hunster.js</a>
+</p>
