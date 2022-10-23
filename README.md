@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheBrunno&show_icons=true&theme=react&hide_border=true&count_private=true&hide_rank=true&hide=issues,contribs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrunno&langs_count=50&layout=compact&theme=react&custom_title=Linguagens&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrunno&langs_count=50&layout=compact&theme=react&hide_border=true">
 </p>
 <br>
 <p>
