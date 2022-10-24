@@ -64,5 +64,5 @@
 </p>
 <p>
   Discord:
-  <a href="https://discord.com/users/507003899945811969" targe="_blank">hunster.js</a>
+  <a href="https://discord.com/users/507003899945811969" targe="_blank">buno.py</a>
 </p>
