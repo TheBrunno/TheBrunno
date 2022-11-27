@@ -1,4 +1,5 @@
-<img align="right" src="https://user-images.githubusercontent.com/68453992/196012801-c3c97ed4-3cc4-4412-bb70-e38a7992645c.gif" width="40%">
+<img align="right" src="https://user-images.githubusercontent.com/68453992/204113770-ab04cc2e-0d38-49be-890f-d680e8fbba99.gif" width="40%">
+
 
 <h1>Bruno's area 😎</h1>
 <h3 align="center">Cursando Desenvolvimento de Sistemas 👨🏻‍💻</h3>
@@ -14,17 +15,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrunno&langs_count=50&layout=compact&theme=react&hide_border=true">
 </p>
 <br>
-<p>
-  <h3>Sempre buscando melhorar:</h3>
-  
-  Linguagens: ![languages](https://skills.thijs.gg/icons?i=js,ts,html,css,python,java)
-  
-  Frameworks: ![frameworks](https://skills.thijs.gg/icons?i=nodejs,flask,bootstrap)
-  
-  Ferramentas: ![tools](https://skills.thijs.gg/icons?i=git,github,azure,photoshop,vscode,eclipse,linux,windows)
-  
-  <br>
-</p>
 <p>
   <h3>Visitantes 👌:</h3> 
   <img src="https://profile-counter.glitch.me/TheBrunno/count.svg">
