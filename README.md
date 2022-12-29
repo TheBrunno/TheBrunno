@@ -1,5 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/68453992/204113770-ab04cc2e-0d38-49be-890f-d680e8fbba99.gif" width="40%">
-
+<img align="right" src="https://user-images.githubusercontent.com/68453992/209891652-07b0ac43-db3d-473c-8b8e-eb65512516ba.gif" width="40%">
 
 <h1>Bruno's area 😎</h1>
 <h3 align="center">Cursando Desenvolvimento de Sistemas 👨🏻‍💻</h3>
