@@ -15,10 +15,6 @@
 </p>
 <br>
 <p>
-  <h3>Visitantes 👌:</h3> 
-  <img src="https://profile-counter.glitch.me/TheBrunno/count.svg">
-</p>
-<p>
   E-mail: 
   <a href="mailto:brunosilvadeoliveira.10@gmail.com" target="_blank">brunosilvadeoliveira.10@gmail.com</a>, <a href="mailto:bruno.oliveira863@etec.sp.gov.br" target="_blank">bruno.oliveira863@etec.sp.gov.br</a>
 </p>
