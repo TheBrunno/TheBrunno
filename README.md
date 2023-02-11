@@ -14,6 +14,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrunno&langs_count=50&layout=compact&theme=react&hide_border=true">
 </p>
 <br>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=TheBrunno&theme=react&hide_border=true&border_radius=15)](https://git.io/streak-stats">
+</p>
+
 <p>
   E-mail: 
   <a href="mailto:brunosilvadeoliveira.10@gmail.com" target="_blank">brunosilvadeoliveira.10@gmail.com</a>, <a href="mailto:bruno.oliveira863@etec.sp.gov.br" target="_blank">bruno.oliveira863@etec.sp.gov.br</a>
