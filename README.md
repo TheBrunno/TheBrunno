@@ -1,7 +1,7 @@
 <img align="right" src="https://user-images.githubusercontent.com/68453992/218596699-73b93409-ffd2-4666-ae4c-6f4ece53c209.gif" width="40%">
 
 <h1>Bruno's area 😎</h1>
-<h3 align="center">Cursando Desenvolvimento de Sistemas 👨🏻‍💻</h3>
+<h3 align="center">Cursando Desenvolvimento de Sistemas 🚀</h3>
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68453992/189243233-a2671dde-d790-43d2-8b13-2b27ea113038.png" width="180px">
   <img src="https://user-images.githubusercontent.com/68453992/189243256-9497af98-192b-4331-a14e-ccdb9fee2eb5.png" width="180px">
