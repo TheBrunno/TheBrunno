@@ -1,4 +1,4 @@
-<img align="right" src="https://user-images.githubusercontent.com/68453992/218596699-73b93409-ffd2-4666-ae4c-6f4ece53c209.gif" width="40%">
+<img align="right" src="https://github.com/TheBrunno/TheBrunno/assets/68453992/160de71d-ddaa-494e-92cd-e8933d2eb989.gif" width="40%">
 
 <h1>Bruno's area 😎</h1>
 <h3 align="center">Cursando Desenvolvimento de Sistemas 🚀</h3>
@@ -11,7 +11,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TheBrunno&show_icons=true&theme=react&hide_border=true&count_private=true&hide_rank=true&hide=issues,contribs">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrunno&langs_count=50&layout=compact&theme=react&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBrunno&langs_count=8&layout=compact&theme=react&hide_border=true">
 </p>
 <br>
 
