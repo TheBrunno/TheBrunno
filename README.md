@@ -25,9 +25,9 @@
 </p>
 <p>
   Instagram: 
-  <a href="https://www.instagram.com/brunoo.zip/" target="_blank">@brunoo.zip</a>
+  <a href="https://www.instagram.com/thebrunnoo_/" target="_blank">@thebrunnoo_</a>
 </p>
 <p>
   Discord:
-  <a href="https://discord.com/users/507003899945811969" targe="_blank">buno.py</a>
+  <a href="https://discord.com/users/507003899945811969" targe="_blank">@thebrunno</a>
 </p>
